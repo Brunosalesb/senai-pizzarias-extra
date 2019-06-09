@@ -1,0 +1,14 @@
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\bin\Debug\netcoreapp2.1\Pizzaria_API.deps.json
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\bin\Debug\netcoreapp2.1\Pizzaria_API.runtimeconfig.json
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\bin\Debug\netcoreapp2.1\Pizzaria_API.runtimeconfig.dev.json
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\bin\Debug\netcoreapp2.1\Pizzaria_API.dll
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.csproj.CoreCompileInputs.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.RazorAssemblyInfo.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.RazorAssemblyInfo.cs
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.AssemblyInfoInputs.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.AssemblyInfo.cs
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.RazorTargetAssemblyInfo.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.csprojAssemblyReference.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\bin\Debug\netcoreapp2.1\Pizzaria_API.pdb
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.dll
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\Pizzaria_API\Pizzaria_API\obj\Debug\netcoreapp2.1\Pizzaria_API.pdb

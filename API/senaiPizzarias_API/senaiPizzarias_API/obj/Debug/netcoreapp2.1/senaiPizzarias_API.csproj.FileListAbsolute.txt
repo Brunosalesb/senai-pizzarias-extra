@@ -1,0 +1,14 @@
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\bin\Debug\netcoreapp2.1\senaiPizzarias_API.deps.json
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\bin\Debug\netcoreapp2.1\senaiPizzarias_API.runtimeconfig.json
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\bin\Debug\netcoreapp2.1\senaiPizzarias_API.runtimeconfig.dev.json
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\bin\Debug\netcoreapp2.1\senaiPizzarias_API.dll
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.csprojAssemblyReference.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.csproj.CoreCompileInputs.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.RazorAssemblyInfo.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.RazorAssemblyInfo.cs
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.AssemblyInfoInputs.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.AssemblyInfo.cs
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.RazorTargetAssemblyInfo.cache
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\bin\Debug\netcoreapp2.1\senaiPizzarias_API.pdb
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.dll
+C:\Users\Regis\Desktop\Senai\senai-pizzarias-extra\API\senaiPizzarias_API\senaiPizzarias_API\obj\Debug\netcoreapp2.1\senaiPizzarias_API.pdb

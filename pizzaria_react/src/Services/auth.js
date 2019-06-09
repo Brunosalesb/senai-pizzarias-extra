@@ -1,0 +1,1 @@
+export const usuarioAutenticado = () => localStorage.getItem('pizza-token') != null;
