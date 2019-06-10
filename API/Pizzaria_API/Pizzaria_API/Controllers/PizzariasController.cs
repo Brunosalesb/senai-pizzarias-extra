@@ -14,6 +14,7 @@ namespace Pizzaria_API.Controllers
     [ApiController]
     public class PizzariasController : Controller
     {
+        [Authorize]
         [HttpGet]
         public IActionResult ListarPizzarias()
         {

@@ -12,8 +12,12 @@ class Listar extends Component {
     }
 
     buscarPizzarias() {
+        let token = localStorage.getItem("pizza-token");
         fetch('http://localhost:5000/api/Pizzarias', {
-            method: 'GET'
+            method: 'GET',
+            headers : {
+                'Authorization': 'Bearer ' + token
+              }
         })
             .then(resposta => resposta.json())
             .then(data => this.setState(({ lista: data })))
