@@ -1,3 +1,3 @@
-# senai-pizzarias-extra
+# senai-pizzarias
 
-Cadastro e Listagem de Pizzarias
+projeto desenvolvido no senai de informática, sistema de listagem e cadastro de pizzarias.
